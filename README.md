@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=aklajifd)](https://git.io/streak-stats)
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aklajifd1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=aklajifd&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=aklajifd&theme=dark" />
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=aklajifd&color=red)
