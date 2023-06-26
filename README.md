@@ -38,14 +38,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
-<!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-
 <a href="linkedin.com/in/daniel-fijalka-989a6421b" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
 <a href="https://www.instagram.com/han_brolo24)" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F" />
-<a href="linkedin.com/in/daniel-fijalka-989a6421b" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+<a href="https://www.facebook.com/dfijalka" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/facebook/#1877F2" />
+</p>
 
 
