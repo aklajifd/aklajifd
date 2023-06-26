@@ -2,7 +2,7 @@
 
 - &#128187; My name is Daniel Fijalka, I am an aspiring software developer/engineer. I have a background in biology and have worked in healthcare the last several years as a Laboratory Scientist and currently as a Lab Info System Specialist. My focus recently has been transitioning into tech. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page! 
 - 🔭 I’m currently working on a full-stack face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. 
-- 🌱 I’m currently learning React! I am enrolled in a full-stack development bootcamp that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose. I'm supplementing my learning with courses on the Coursera platform and Zero to Mastery acadmey. 
+- 🌱 I’m currently learning React! I am enrolled in a full-stack development bootcamp that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose. I'm supplementing my learning with courses on the Coursera platform and Zero to Mastery academy. 
 -  📫 How to reach me: aklajifd@gmail.com
 - 😄 Pronouns: He/Him
   
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/daniel-fijalka-989a6421b" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
-<a href="https://www.instagram.com/han_brolo24)" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+<a href="www.linkedin.com/in/daniel-fijalka-989a6421b" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+<a href="https://www.instagram.com/han_brolo24" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F" />
 <a href="https://www.facebook.com/dfijalka" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/facebook/#1877F2" />
 </p>
 
