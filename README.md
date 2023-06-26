@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklajifd&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aklajifd&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aklajifd&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklajifd&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/daniel-fijalka-989a6421b" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+<a href="https://www.linkedin.com/in/daniel-fijalka-989a6421b" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
 <a href="https://www.instagram.com/han_brolo24" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F" />
 <a href="https://www.facebook.com/dfijalka" target="blank"><img align="center" height="30" width="40" src="https://cdn.simpleicons.org/facebook/#1877F2" />
 </p>
