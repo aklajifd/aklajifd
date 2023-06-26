@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- <span style='font-size:100px;'>&#128187;</span>
+<p>&#128187;</p>
 - 🔭 I’m currently working on a full-stack face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. 
 - 🌱 I’m currently learning React! I am enrolled in a full-stack development bootcamp that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose.
 -  📫 How to reach me: aklajifd@gmail.com
