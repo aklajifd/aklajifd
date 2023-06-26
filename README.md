@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. 
+- 🔭 I’m currently working on a full-stack face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. 
 - 🌱 I’m currently learning React! I am enrolled in a full-stack development bootcamp that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose.
 -  📫 How to reach me: aklajifd@gmail.com
 - 😄 Pronouns: He/Him
@@ -10,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. 
-- 🌱 I’m currently learning React! I 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklajifd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aklajifd)](https://git.io/streak-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
