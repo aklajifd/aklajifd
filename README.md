@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-<p> - &#128187 My name is Daniel Fijalka, I am an aspiring software developer/engineer. I have a background in biology and have worked in healthcare the last several years as a Laboratory Scientist and currently as a Lab Info System Specialist. My focus recently has been transitioning into tech. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page!  </p>
+- &#128187 My name is Daniel Fijalka, I am an aspiring software developer/engineer. I have a background in biology and have worked in healthcare the last several years as a Laboratory Scientist and currently as a Lab Info System Specialist. My focus recently has been transitioning into tech. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page!
 - 🔭 I’m currently working on a full-stack face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. 
 - 🌱 I’m currently learning React! I am enrolled in a full-stack development bootcamp that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose. I'm supplementing my learning with courses on the Coursera platform and Zero to Mastery acadmey. 
 -  📫 How to reach me: aklajifd@gmail.com
@@ -43,3 +43,9 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+
+<style>
+  a img {
+    color: blue;
+  }
+</style>
