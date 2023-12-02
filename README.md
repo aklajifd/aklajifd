@@ -1,10 +1,9 @@
 ### Hello there! 👋
 
-- &#128187; My name is Daniel Fijalka, I am an aspiring software developer/engineer. I have a background in biology and have worked in healthcare the last several years as a Laboratory Scientist and currently as a Lab Info System Specialist. My focus recently has been transitioning into tech. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page! 
+- &#128187; My name is Daniel Fijalka, I am an aspiring software developer/engineer. I have a previous background in biology and worked in healthcare for several years as a Laboratory Scientist and Lab Info System Specialist. I discovered a love for technology and decided to pursue a career in computer science. My current role is Software Quality Assurance Analyst. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page! 
 - 🔭 I’m currently working on a full-stack face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. 
-- 🌱 I’m currently learning React! I am enrolled in a full-stack development bootcamp that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose. I'm supplementing my learning with courses on the Coursera platform and Zero to Mastery academy. 
+- 🌱 I’m currently learning C#, MS SQL Server, and PHP/MySQL! I am set to complete an Associates in Computer Science within the next few months and aspire to obtain a master's degree in Computer Science. I completed a full-stack development bootcamp in 2023 that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose. I also supplement my learning with courses on the Coursera platform and Zero to Mastery academy. 
 -  📫 How to reach me: aklajifd@gmail.com
-- 😄 Pronouns: He/Him
   
 <!--
 **aklajifd/aklajifd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
