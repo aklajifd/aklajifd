@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- &#128187; My name is Daniel Fijalka, I am an aspiring software developer/engineer. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page!
+- &#128187; My name is Daniel Fijalka, I am a current student with dreams of a future software developer/engineer role. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page!
 - 🔭 Over the past year, I've completed a couple of school projects that have demos at my YouTube channel, https://www.youtube.com/@danielfijalka6950
 - 🌱  Right now I'm focused on obtaining my master's degree in Computer Science with an emphasis in Software Engineering. To supplement my education, I enjoy using Coursera and Zero to Mastery academy. I was also a participant in the 2023 OK Coders cohort.
 - ⚡ Fun fact: I recently completed my Associates in Computer Science, with an emphasis in Computer Programming!
