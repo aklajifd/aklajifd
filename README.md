@@ -1,8 +1,9 @@
 ### Hello there! 👋
 
-- &#128187; My name is Daniel Fijalka, I am an aspiring software developer/engineer. I have a previous background in biology and worked in healthcare for several years as a Laboratory Scientist and Lab Info System Specialist. During that time I discovered a love for technology and wanted to learn more about programming and software development. My current role is Software Quality Assurance Analyst. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page! 
-- 🔭 I’m currently working on a full-stack face-detection app that utilizes a registration and login section, a database of users, and a face-detection API. Check out a demo of a project I recently completed that implements C# and SQL Server at https://youtu.be/Ev1tB7kJNg8!
-- 🌱 I’m currently enrolled in a C++ course! I look forward to completing an Associates in Computer Science this year, after which I'll turn my focus to obtaining a master's degree in Computer Science, having already started some of the prerequisite courses. I completed a full-stack development bootcamp in 2023 that incorporates HTML, CSS, JavaScript, React, MongoDB, Express, and Mongoose. I also supplement my learning with courses on the Coursera platform and Zero to Mastery academy. 
+- &#128187; My name is Daniel Fijalka, I am an aspiring software developer/engineer. I am fully committed to being a lifelong learner and I believe that goes hand-in-hand with any career in technology. Thank you for checking out my Github page!
+- 🔭 Over the past year, I've completed a couple of school projects that have demos at my YouTube channel, https://www.youtube.com/@danielfijalka6950
+- 🌱  Right now I'm focused on obtaining my master's degree in Computer Science with an emphasis in Software Engineering. To supplement my education, I enjoy using Coursera and Zero to Mastery academy. I was also a participant in the 2023 OK Coders cohort.
+- ⚡ Fun fact: I recently completed my Associates in Computer Science, with an emphasis in Computer Programming!
 -  📫 How to reach me: aklajifd@gmail.com
   
 <!--
