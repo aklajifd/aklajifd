@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- &#128187; My name is Daniel Fijalka, and my current role is a Software Quality Assurance Analyst.
+- &#128187; My name is Daniel Fijalka, and my current role is a Junior Software Developer.
 - - 🌱  I'm also working towards obtaining my master's degree in Computer Science with an emphasis in Software Engineering.
 - 🔭 Over the past year, I've completed a couple of school projects that have demos at my YouTube channel, https://www.youtube.com/@danielfijalka6950
 - ⚡ Fun fact: I recently completed my Associates in Computer Science, with an emphasis in Computer Programming!
